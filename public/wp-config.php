@@ -27,7 +27,7 @@ if(file_exists(dirname(__FILE__) . '/local.php')){
 	define( 'DB_HOST', 'localhost' );
 }else{
 	// Live database settings
-	define( 'DB_NAME', 'aboozarm_universitydata	' );
+	define( 'DB_NAME', 'aboozarm_universitydata' );
 	define( 'DB_USER', 'aboozarm_wp638' );
 	define( 'DB_PASSWORD', 'aboozarmojdeh1234!!!' );
 	define( 'DB_HOST', 'localhost' );
